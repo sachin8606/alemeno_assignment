@@ -1,0 +1,12 @@
+.navbar-brand{
+    margin-left: 10px !important;
+}
+.profile-icon-head{
+    position: absolute;
+    right: 10px;
+}
+
+.profile-icon-head>a>i{
+    font-size: x-large;
+}
+

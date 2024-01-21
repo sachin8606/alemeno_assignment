@@ -1,0 +1,7 @@
+#accordion>.card{
+    width: 100% !important;
+}
+#accordion .card-body{
+    text-align: left;
+}
+
